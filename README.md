@@ -70,6 +70,34 @@ No encryption. No obfuscation. No magic. Just clean, transparent, and highly opt
 
 </div>
 
+###endpoint report
+> this tool gives you a full report of the endpoints in the website as a json file. below is a harmless example
+```bash
+{
+  "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2": {
+    "url": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
+    "method": "GET",
+    "contentType": "font/woff2",
+    "status": 200,
+    "interactions": [
+      {
+        "method": "GET",
+        "headers": {
+          "origin": "https://vajiraofc-apis.vercel.app",
+          "sec-ch-ua-platform": "\"Windows\"",
+          "referer": "https://fonts.googleapis.com/",
+          "accept-language": "en-US,en;q=0.9",
+          "sec-ch-ua": "\"Chromium\";v=\"148\", \"Google Chrome\";v=\"148\", \";Not A Brand\";v=\"99\"",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+          "sec-ch-ua-mobile": "?0",
+          "accept": "*/*"
+        },
+        "postData": null,
+        "timestamp": "2026-08-25T15:09:21.635Z",
+        "url": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2"
+      },
+```
+
 ---
 
 ### 📦 GET STARTED
