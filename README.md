@@ -120,13 +120,13 @@ node index.js
 
 *CONTACT ME*
 ```bash
-binduwayi haththa pahayi pol gediyayi wade dekayi
+0706000390
 ```
 
 *SINHALEN AHAGANIN*
 ```bash
-API JAALE NEWYI AAYI KIWWA
+ayubowan theruwan saranayi
 ```
 
 ```bash
-GATHTHANM CREDIT EHEMA APITATH DIPAN
+leave a small credit for the effort
